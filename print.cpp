@@ -6,7 +6,7 @@ int main(){
     int num;
     cin>>num;
     for (int i = 0; i<num; i++){
-        cout<<"hello"<<endl;
+        cout<<i<<" hello"<<endl;
     }
 
     return 0;
